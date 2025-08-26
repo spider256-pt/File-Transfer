@@ -47,6 +47,4 @@ Do **not** attempt these on systems you do not own or have explicit permission t
 
 ## 🚀 Getting Started
 Clone the repository and explore the examples:  
-```bash
-git clone https://github.com/your-username/file-transfer-techniques.git
-cd file-transfer-techniques
+
